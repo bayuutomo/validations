@@ -1,0 +1,15 @@
+{
+  "name": "@adre/validations",
+  "version": "1.0.0",
+  "description": "validations",
+  "private": false,
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "elevenia",
+  "license": "ISC"
+}
